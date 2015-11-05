@@ -2,7 +2,7 @@
 title: "{ me :: everything.program() }"
 email: contact@ashishshah.net
 description: > # this means to ignore newlines until "baseurl:"
-    A [blag](https://xkcd.com/148/) about learning to program everything under the sun.
+    A blag about learning to program everything under the sun.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blag.ashishshah.net" # the base hostname & protocol for your site
 twitter_username: ashneo76
